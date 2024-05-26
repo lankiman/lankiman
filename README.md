@@ -8,16 +8,15 @@ With valuable skills and the capacity to build Full Stack applications, I have t
 
 ## Currently Learning
 
-- 🌟 **C#**
-  - <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+- 🌟 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 
 ## Looking to Collaborate On
 
-- 🤝 **Frontend Projects: React.js**
+- 🤝 **Frontend Projects: **
 
   - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 
-- 🤝 **Backend Projects: Node.js/C#**
+- 🤝 **Backend Projects: **
   - <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js"/>
   - <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 
@@ -28,5 +27,5 @@ With valuable skills and the capacity to build Full Stack applications, I have t
 
 ## Web Development
 
-- 🌐 **Looking to help with anything Web Development (Web 2.0).**
+- 🌐 **Looking to help with anything Web Development.**
   - <img src="https://img.shields.io/badge/Web%202.0-4285F4?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development"/>
