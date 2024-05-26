@@ -56,11 +56,13 @@ With valuable skills and the capacity to build Full Stack applications, I have t
 
 ##
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lankiman&show_icons=true&locale=en&layout=compact" alt="lankiman" /></p>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=lankiman&count_private=true&theme=tokyonight&showicons=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lankiman&theme=dark"/>
 </p>
 
-![](https://komarev.com/ghpvc/?username=princecodes247&color=green)
+![](https://komarev.com/ghpvc/?username=lankiman&color=green)
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lankiman&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
 
@@ -69,12 +71,6 @@ With valuable skills and the capacity to build Full Stack applications, I have t
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lankiman&label=Profile%20views&color=0e75b6&style=flat" alt="lankiman" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lankiman&show_icons=true&locale=en&layout=compact" alt="lankiman" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lankiman&show_icons=true&locale=en" alt="lankiman" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lankiman&" alt="lankiman" /></p>
-
 <p align="center">
-  _"The only way to do great work is to love what you do." - Steve Jobs_
+  "The only way to do great work is to love what you do." - Steve Jobs
 </p>
