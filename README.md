@@ -16,13 +16,33 @@ With valuable skills and the capacity to build Full Stack applications, I have t
 
 - Frontend Projects
 
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<p>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/blazor.svg" alt="blazor" width="40" height="40"/>
+  </a>
+</p>
 
 - Backend Projects
-
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js"/>
-    
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+<p>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+ </a>
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+ </a>
+ <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+ </a>
+ <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+   </a>
+</p>
 
 ## Fun Fact
 
@@ -31,13 +51,13 @@ With valuable skills and the capacity to build Full Stack applications, I have t
 ## Web Development
 
 - <div style="display:flex, align-items:center">
-  <p>🌐Looking to help with anything Web Development</p>
-  <img src="https://img.shields.io/badge/Web%202.0-4285F4?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development"/>
+    <p>🌐Looking to help with anything Web Development</p>
+   <img src="https://img.shields.io/badge/Web%202.0-%23007ACC.svg?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Web 2.0"/>
   </div>
 
 ## Follow Me
 
-<p align="left"> <a href="https://x.com/Lanki_Man" target="blank"><img src="https://img.shields.io/x/follow/Lanki_Man?logo=twitter&style=for-the-badge" alt="Lanki_Man" /></a> </p>
+<p align="left"> <a href="https://x.com/Lanki_Man" target="blank"><img src="https://img.shields.io/twitter/follow/Lanki_Man?logo=twitter&style=for-the-badge" alt="Lanki_Man" /></a> </p>
 
 ## Contact Me
 
@@ -61,19 +81,8 @@ With valuable skills and the capacity to build Full Stack applications, I have t
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
- 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/blazor.svg" alt="blazor" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -84,9 +93,6 @@ With valuable skills and the capacity to build Full Stack applications, I have t
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons
-
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
