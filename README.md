@@ -10,7 +10,9 @@ With valuable skills and the capacity to build Full Stack applications, I have t
 
 ## Currently Learning
 
- <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+ </a>
 
 ## Looking to Collaborate On
 
@@ -52,7 +54,7 @@ With valuable skills and the capacity to build Full Stack applications, I have t
 
 - <div style="display:flex, align-items:center">
     <p>🌐Looking to help with anything Web Development</p>
-   <img src="https://img.shields.io/badge/Web%202.0-%23007ACC.svg?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Web 2.0"/>
+   <img src="https://img.shields.io/badge/Web%202.0-%23007ACC.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Web 2.0"/>
   </div>
 
 ## Follow Me
