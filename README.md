@@ -144,8 +144,7 @@ With valuable skills and the capacity to build Full Stack applications, I have t
 
 ![](https://komarev.com/ghpvc/?username=lankiman&color=green)
 
-<!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lankiman&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px"> -->
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=princecodes247&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lankiman&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{lankiman}1212%2Fhit-counter" alt="counter" style="vertical-align:top; margin:4px">
