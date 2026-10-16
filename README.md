@@ -4,9 +4,11 @@ Software developer based in Nigeria. I build performant software applications wi
 
 My background is in Electrical/Electronic Engineering, with a focus on Electronics. I'm open to collaborating on frontend and backend projects.
 
+**I'm currently exploring DevOps.**
+
 ## Tech stack
 
-- **Languages:** JavaScript, TypeScript, C#, Java
+- **Languages:** JavaScript, TypeScript, C#
 - **Frontend:** React, Next.js, Angular, Blazor
 - **Backend:** Node.js, Express, NestJS, .NET
 - **Databases:** MongoDB, MySQL
