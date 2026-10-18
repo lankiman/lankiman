@@ -15,7 +15,7 @@ I'm open to collaborating on frontend and backend projects.
 | **Languages** | JavaScript, TypeScript, C# |
 | **Frontend** | React, Next.js, Angular, Blazor |
 | **Backend** | Node.js, Express, NestJS, .NET |
-| **Databases** | MongoDB, MySQL |
+| **Databases** | PostgreSQL, MongoDB, MySQL |
 
 ![GitHub streak](https://streak-stats.demolab.com/?user=lankiman&theme=dark&hide_border=true)
 
