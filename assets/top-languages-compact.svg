@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="247" viewBox="0 0 350 247" role="img" aria-labelledby="chart-title chart-description">
+<title id="chart-title">Most Used Languages</title>
+<desc id="chart-description">Languages by code bytes across public, owned, non-forked repositories. Leading language: C#, 30.11%. Updated 2026-10-20. C#: 30.11%; TypeScript: 17.10%; JavaScript: 16.90%; HTML: 15.19%; CSS: 11.37%; C: 7.30%; Other: 2.03%.</desc>
+<style>text{font-family:'Segoe UI',Ubuntu,Arial,sans-serif}.legend{font-size:10px;fill:#b8b8b8}.caption{font-size:9px;fill:#999}</style>
+<rect width="350" height="247" rx="5" fill="#151515" />
+<text x="23" y="32" fill="#fff" font-size="18" font-weight="600">Most Used Languages</text>
+<circle cx="260" cy="134" r="57" fill="none" stroke="#7055df" stroke-width="14" stroke-dasharray="107.828 250.314" stroke-dashoffset="0.000" transform="rotate(-90 260 134)" />
+<circle cx="260" cy="134" r="57" fill="none" stroke="#3178c6" stroke-width="14" stroke-dasharray="61.238 296.904" stroke-dashoffset="-107.828" transform="rotate(-90 260 134)" />
+<circle cx="260" cy="134" r="57" fill="none" stroke="#f1e05a" stroke-width="14" stroke-dasharray="60.539 297.602" stroke-dashoffset="-169.065" transform="rotate(-90 260 134)" />
+<circle cx="260" cy="134" r="57" fill="none" stroke="#e34c26" stroke-width="14" stroke-dasharray="54.412 303.729" stroke-dashoffset="-229.605" transform="rotate(-90 260 134)" />
+<circle cx="260" cy="134" r="57" fill="none" stroke="#673195" stroke-width="14" stroke-dasharray="40.705 317.437" stroke-dashoffset="-284.017" transform="rotate(-90 260 134)" />
+<circle cx="260" cy="134" r="57" fill="none" stroke="#777777" stroke-width="14" stroke-dasharray="26.145 331.996" stroke-dashoffset="-324.722" transform="rotate(-90 260 134)" />
+<circle cx="260" cy="134" r="57" fill="none" stroke="#a4acb6" stroke-width="14" stroke-dasharray="7.275 350.867" stroke-dashoffset="-350.867" transform="rotate(-90 260 134)" />
+<g aria-label="Leading language">
+<text x="260" y="131" text-anchor="middle" fill="#fff" font-size="23.0" font-weight="700">C#</text>
+<text x="260" y="156" text-anchor="middle" fill="#b8b8b8" font-size="13">30.11%</text>
+</g>
+<g><title>C#: 30.11%</title><circle cx="23" cy="67" r="4" fill="#7055df" /><text x="33" y="71" class="legend">C#</text><text x="169" y="71" text-anchor="end" class="legend">30.11%</text></g>
+<g><title>TypeScript: 17.10%</title><circle cx="23" cy="90" r="4" fill="#3178c6" /><text x="33" y="94" class="legend">TypeScript</text><text x="169" y="94" text-anchor="end" class="legend">17.10%</text></g>
+<g><title>JavaScript: 16.90%</title><circle cx="23" cy="113" r="4" fill="#f1e05a" /><text x="33" y="117" class="legend">JavaScript</text><text x="169" y="117" text-anchor="end" class="legend">16.90%</text></g>
+<g><title>HTML: 15.19%</title><circle cx="23" cy="136" r="4" fill="#e34c26" /><text x="33" y="140" class="legend">HTML</text><text x="169" y="140" text-anchor="end" class="legend">15.19%</text></g>
+<g><title>CSS: 11.37%</title><circle cx="23" cy="159" r="4" fill="#673195" /><text x="33" y="163" class="legend">CSS</text><text x="169" y="163" text-anchor="end" class="legend">11.37%</text></g>
+<g><title>C: 7.30%</title><circle cx="23" cy="182" r="4" fill="#777777" /><text x="33" y="186" class="legend">C</text><text x="169" y="186" text-anchor="end" class="legend">7.30%</text></g>
+<g><title>Other: 2.03%</title><circle cx="23" cy="205" r="4" fill="#a4acb6" /><text x="33" y="209" class="legend">Other</text><text x="169" y="209" text-anchor="end" class="legend">2.03%</text></g>
+<text x="23" y="233" class="caption">33 public repos · code size · 2026-10-20</text>
+</svg>

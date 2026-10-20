@@ -11,8 +11,8 @@ I'm open to collaborating on frontend and backend projects.
 ## Tech stack
 
 <picture>
-  <source media="(max-width: 767px)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=lankiman&amp;layout=donut&amp;langs_count=6&amp;theme=dark&amp;hide_border=true&amp;disable_animations=true" />
-  <img align="right" width="300" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lankiman&amp;layout=donut-vertical&amp;langs_count=6&amp;theme=dark&amp;hide_border=true&amp;disable_animations=true" alt="Most used languages and their proportions" />
+  <source media="(max-width: 767px)" srcset="./assets/top-languages-compact.svg" />
+  <img align="right" width="300" src="./assets/top-languages.svg" alt="Language proportions with the most used language and percentage in the centre" />
 </picture>
 
 | Area | Stack |
