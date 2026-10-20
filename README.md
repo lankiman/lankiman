@@ -10,6 +10,8 @@ I'm open to collaborating on frontend and backend projects.
 
 ## Tech stack
 
+<img align="right" width="280" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lankiman&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;disable_animations=true" alt="Most used languages and their proportions" />
+
 | Area | Stack |
 | :--- | :--- |
 | **Languages** | JavaScript, TypeScript, C# |
@@ -24,3 +26,7 @@ I'm open to collaborating on frontend and backend projects.
 [Portfolio](https://lankiman.xyz) · [Email](mailto:marvellousgboun@gmail.com) · [LinkedIn](https://www.linkedin.com/in/marvellous-gboun) · [X](https://x.com/Lanki_Man)
 
 Discord: `lankiman`
+
+<p align="center">
+  "The only way to do great work is to love what you do." - Steve Jobs
+</p>
