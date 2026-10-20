@@ -6,11 +6,14 @@ My background is in Electrical/Electronic Engineering, with a focus on Electroni
 
 I'm open to collaborating on frontend and backend projects.
 
-**I'm currently exploring DevOps.**
+**I am actively exploring DevOps and AI engineering.**
 
 ## Tech stack
 
-<img align="right" width="280" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lankiman&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;disable_animations=true" alt="Most used languages and their proportions" />
+<picture>
+  <source media="(max-width: 767px)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=lankiman&amp;layout=donut&amp;langs_count=6&amp;theme=dark&amp;hide_border=true&amp;disable_animations=true" />
+  <img align="right" width="300" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lankiman&amp;layout=donut-vertical&amp;langs_count=6&amp;theme=dark&amp;hide_border=true&amp;disable_animations=true" alt="Most used languages and their proportions" />
+</picture>
 
 | Area | Stack |
 | :--- | :--- |
