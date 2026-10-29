@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="375" viewBox="0 0 300 375" role="img" aria-labelledby="chart-title chart-description">
 <title id="chart-title">Most Used Languages</title>
-<desc id="chart-description">Languages by code bytes across public, owned, non-forked repositories. Leading language: C#, 36.51%. Updated 2026-10-28. C#: 36.51%; TypeScript: 15.53%; JavaScript: 15.36%; HTML: 13.80%; CSS: 10.33%; C: 6.63%; Other: 1.85%.</desc>
+<desc id="chart-description">Languages by code bytes across public, owned, non-forked repositories. Leading language: C#, 36.51%. Updated 2026-10-29. C#: 36.51%; TypeScript: 15.53%; JavaScript: 15.36%; HTML: 13.80%; CSS: 10.33%; C: 6.63%; Other: 1.85%.</desc>
 <style>text{font-family:'Segoe UI',Ubuntu,Arial,sans-serif}.legend{font-size:10px;fill:#b8b8b8}.caption{font-size:9px;fill:#999}</style>
 <rect width="300" height="375" rx="5" fill="#151515" />
 <text x="23" y="32" fill="#fff" font-size="18" font-weight="600">Most Used Languages</text>
@@ -22,5 +22,5 @@
 <g><title>CSS: 10.33%</title><circle cx="23" cy="311" r="4" fill="#673195" /><text x="33" y="315" class="legend">CSS</text><text x="139" y="315" text-anchor="end" class="legend">10.33%</text></g>
 <g><title>C: 6.63%</title><circle cx="162" cy="311" r="4" fill="#777777" /><text x="172" y="315" class="legend">C</text><text x="278" y="315" text-anchor="end" class="legend">6.63%</text></g>
 <g><title>Other: 1.85%</title><circle cx="23" cy="332" r="4" fill="#a4acb6" /><text x="33" y="336" class="legend">Other</text><text x="139" y="336" text-anchor="end" class="legend">1.85%</text></g>
-<text x="23" y="361" class="caption">33 public repos · code size · 2026-10-28</text>
+<text x="23" y="361" class="caption">33 public repos · code size · 2026-10-29</text>
 </svg>
